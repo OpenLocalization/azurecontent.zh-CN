@@ -1,5 +1,5 @@
 ﻿#你好
-欢迎
+欢迎回来
 Resources for building applications that use Microsoft Azure.
 
 ##Azure Architectural Design Patterns
